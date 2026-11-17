@@ -1,3 +1,5 @@
 Membuat PRD web alikasi solusi sahabat
+a.membuat tujuan
+b.membuat rincian fitur
 membuat html
 membuat java script
